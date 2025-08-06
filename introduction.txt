@@ -1,0 +1,20 @@
+SapientiaLux - Illuminating Knowledge for Young Minds
+
+Introduction
+
+SapientiaLux : It is an offline AI-powered educational application designed specifically for school students in grades 1 through 12.
+               It offers essential tools including grammar correction, essay evaluation, mathematical equation solving, general knowledge queries, and syllabus-based question answering.
+               All functionalities are optimized to run smoothly on low-resource devices without requiring internet connectivity.
+               The modular architecture supports scalability, while an update mechanism allows syncing new content whenever internet access becomes available.
+
+Inspiration  : I was inspired to create SapientiaLux because the school in my village faced significant challenges:
+               not all students had access to computers, and teachers often lacked the resources or skills to adequately address students' queries and doubts.
+               Moreover, internet access is limited and often unrestricted, which can expose young students—especially during their formative years—to inappropriate content and distractions.
+               To address these challenges, I envisioned an offline, desktop and Android-based Large Language Model (LLM) application.
+               The goal is to provide students with a safe, self-contained learning environment that fulfills their educational needs without the risks or dependencies associated with internet access.
+               This project aims to empower students and teachers alike, ensuring knowledge and curiosity can flourish under guidance and without oversight concerns.
+
+---
+
+Thank you for exploring SapientiaLux — a step towards equitable, safe, and effective education for all children.
+
